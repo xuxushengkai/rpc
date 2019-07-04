@@ -1,0 +1,5 @@
+
+zsquid:S1488Q"^Immediately return this expression instead of assigning it to the temporary variable "result".(Èøïéûÿÿÿÿ
+csquid:S00112<"FDefine and throw a dedicated exception instead of using a generic one.(õ„¸Ôùÿÿÿÿ
+Hsquid:S1135"2Complete the task associated to this TODO comment.(£°§\
+?squid:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
